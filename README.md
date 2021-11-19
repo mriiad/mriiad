@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://user-images.githubusercontent.com/48014410/142652899-fc9598fa-844a-4fa3-8402-6f0d32091dd3.gif)
+
+[![Mriiad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mriiad)](https://github.com/mriiad/github-readme-stats)
+
