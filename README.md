@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mriiad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mriiad&count_private=true&hide=contribs,prs)](https://github.com/mriiad/github-readme-stats)
+[![Mriiad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mriiad&count_private=true&hide=contribs,prs&show_icons=true)](https://github.com/mriiad/github-readme-stats)
 
