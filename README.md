@@ -2,8 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on some React projects
-- 🌱 I’m currently learning React
+- ⚡ Full Stack Developer
+- 🔭 Working on some React projects
+- 🌱 Java Developer
+- 👯 Open to collaborate
+- 📫 How to reach me: https://www.linkedin.com/in/mohamed-riad
 <!-- - 
 - 👯 I’m looking to collaborate
 - 🤔 I’m looking for help with ...
