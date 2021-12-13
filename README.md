@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- ⚡ Full Stack Developer
+- ⚡ Full Stack Developer (Java / React)
 - 🔭 Working on some React projects
-- 🌱 Java Developer
+- 🌱 MERN Developer
 - 👯 Open to collaborate
 - 📫 How to reach me: https://www.linkedin.com/in/mohamed-riad
 <!-- - 
